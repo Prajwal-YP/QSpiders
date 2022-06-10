@@ -1,3 +1,6 @@
+# WAP to identifu the consecetive 3 letter groups in a string
+# Note : A letter included in a group should not be reused
+
 s='abcdemoprqabbczxy'
 
 i=0
